@@ -2,7 +2,7 @@
  
 **Business Analyst & Prompt Engineer** building AI-powered tools at the intersection of finance, compliance, and product.
  
-Currently at **Koloapp (Kochi)** — designing LLM evaluation frameworks that translate architectural decisions into measurable business KPIs using GPT-4 and Claude APIs.
+Currently at **Koloapp (Kochi)** — designing Prompt evaluation frameworks that translate architectural decisions into measurable business KPIs using GPT-4 and Claude APIs.
  
 ---
  
